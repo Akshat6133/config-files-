@@ -1,0 +1,14 @@
+verilog/vhdl: \ 
+mshr-h.veriloghdl \
+chipsalliance.veribl \
+
+nasm: \
+rights.nas-vscode \ 
+
+lucianirsigler.nasm \ 
+
+prettier: \ 
+esbenp.prettier-vscode
+
+django: \
+batisteo.vscode-django
