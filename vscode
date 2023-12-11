@@ -12,3 +12,6 @@ esbenp.prettier-vscode
 
 django: \
 batisteo.vscode-django
+
+cp:
+divyanshuagrawal.competitive-programming-helper
