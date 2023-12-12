@@ -12,6 +12,11 @@ esbenp.prettier-vscode
 
 django: \
 batisteo.vscode-django
+also add to the settings.json: 
+"emmet.preferences": {},
+"emmet.includeLanguages": {
+    "django-html": "html"
+
 
 cp:
 divyanshuagrawal.competitive-programming-helper
